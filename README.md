@@ -1,1 +1,2 @@
-# Django_practice_pro_Student_management_system
+Project Youtube Link:
+https://youtu.be/1nN4wH3W8RM
