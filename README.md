@@ -1,0 +1,1 @@
+# Django_practice_pro_Student_management_system
